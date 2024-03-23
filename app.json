@@ -27,11 +27,11 @@
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
-      "value": "25613661"
+      "value": "28978412"
     },
     "API_HASH": {
       "description": "Dapatkan API HASH di web my.telegram.org",
-      "value": "2d3bc5db8e0fa7605be93ee859d29d4d"
+      "value": "f377e0fb4516701410fa16ea8fdd18ef"
     },
     "CHANNEL_ID": {
       "description": "Masukan ID Channel Untuk [Channel Database]",
@@ -43,11 +43,11 @@
     },
     "START_MESSAGE": {
       "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",
-      "value": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐁𝐀𝐂𝐊 𝐋𝐀𝐃𝐒!\n\n<b>KAMU BELUM MEMILIH LINK MEDIA</b>\n<b>sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ᴅɪ ᴄʜᴀɴɴᴇʟ ᴜᴛᴀᴍᴀ!</b>"
+      "value": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐁𝐀𝐂𝐊 𝐋𝐀𝐃𝐒!\n\n<b>ANDA BELUM MEMILIH LINK MEDIA</b>\n<b>sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ᴅɪ ᴄʜᴀɴɴᴇʟ ᴜᴛᴀᴍᴀ!</b>"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML",
-      "value": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄!\n<b>ᴋᴀᴍᴜ ʙᴇʀᴀᴅᴀ ᴅɪ ᴛᴇᴍᴘᴀᴛ ʏᴀɴɢ ᴛᴇᴘᴀᴛ</b>\n\n<b>WAJIB JOIN DI CH INI :</b>\n✦ @BOKEPBOCIL ✦\n\n<b>ᴊɪᴋᴀ sᴜᴅᴀʜ ᴊᴏɪɴ,\nᴛᴇᴋᴀɴ ʀᴇsᴛᴀʀᴛ ᴜɴᴛᴜᴋ ᴍᴇᴍᴜɴᴄᴜʟᴋᴀɴ ᴍᴇᴅɪᴀ.</b>"
+      "value": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄!\n<b>ᴋᴀᴍᴜ ʙᴇʀᴀᴅᴀ ᴅɪ ᴛᴇᴍᴘᴀᴛ ʏᴀɴɢ ᴛᴇᴘᴀᴛ</b>\n\n<b>WAJIB JOIN DI CH INI :</b>\n✦ @CEWEK_SANGEK ✦\n\n<b>ᴊɪᴋᴀ sᴜᴅᴀʜ ᴊᴏɪɴ,\nᴛᴇᴋᴀɴ ʀᴇsᴛᴀʀᴛ ᴜɴᴛᴜᴋ ᴍᴇᴍᴜɴᴄᴜʟᴋᴀɴ ᴍᴇᴅɪᴀ.</b>"
     }
   },
   "addons": [
