@@ -10,7 +10,7 @@ def start_button(client):
     if FORCE_SUB_CHANNEL:
         buttons = [
             [
-                InlineKeyboardButton(text="𝐎𝐑𝐃𝐄𝐑 𝐕𝐕𝐈𝐏", url=f"https://t.me/CumAgent")
+                InlineKeyboardButton(text="𝐎𝐑𝐃𝐄𝐑 𝐁𝐎𝐊𝐄𝐏 𝐕𝐕𝐈𝐏", url=f"https://t.me/OrderMoan")
             ],
         ]
         return buttons
